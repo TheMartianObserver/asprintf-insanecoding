@@ -7,6 +7,8 @@ functionality of sprintf() and vsprintf() respectively, except that asprintf()
 and vasprintf() allocate a string large enough to hold the output, instead of
 requiring to be supplied with a fixed-length buffer as their predecessors do.
 
+[Home](http://asprintf.insanecoding.org/)
+
 ## API
 ### Prototypes:
 ```c
